@@ -259,9 +259,6 @@
 			<scope>test</scope>
 		</dependency>
 
-
-
-
 		<dependency>
 			<groupId>com.omidbiz</groupId>
 			<artifactId>pfaces</artifactId>
