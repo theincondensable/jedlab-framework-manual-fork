@@ -56,14 +56,12 @@
 	</dependencyManagement>
 
 	<dependencies>
-
+		<!-- this is a Fork of Omidbiz's axon-core only -->
 		<dependency>
-			<groupId>org.omidbiz</groupId>
+			<groupId>com.github.theincondensable</groupId>
 			<artifactId>axon-core</artifactId>
-			<version>2.0.5</version>
+			<version>0.0.1</version>
 		</dependency>
-
-
 
 		<!-- Spring Security -->
 

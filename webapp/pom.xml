@@ -263,6 +263,7 @@
 			<groupId>com.omidbiz</groupId>
 			<artifactId>pfaces</artifactId>
 			<version>0.0.1</version>
+			<systemPath>${basedir}/lib/pfaces/0.0.1/pfaces-0.0.1.jar</systemPath>
 		</dependency>
 
 		<dependency>
